@@ -1,0 +1,12 @@
+/Users/firat/Documents/Interface/Interface/bin/Debug/netcoreapp3.1/Interface.deps.json
+/Users/firat/Documents/Interface/Interface/bin/Debug/netcoreapp3.1/Interface.runtimeconfig.json
+/Users/firat/Documents/Interface/Interface/bin/Debug/netcoreapp3.1/Interface.runtimeconfig.dev.json
+/Users/firat/Documents/Interface/Interface/bin/Debug/netcoreapp3.1/Interface.dll
+/Users/firat/Documents/Interface/Interface/bin/Debug/netcoreapp3.1/Interface.pdb
+/Users/firat/Documents/Interface/Interface/obj/Debug/netcoreapp3.1/Interface.csprojAssemblyReference.cache
+/Users/firat/Documents/Interface/Interface/obj/Debug/netcoreapp3.1/Interface.AssemblyInfoInputs.cache
+/Users/firat/Documents/Interface/Interface/obj/Debug/netcoreapp3.1/Interface.AssemblyInfo.cs
+/Users/firat/Documents/Interface/Interface/obj/Debug/netcoreapp3.1/Interface.csproj.CoreCompileInputs.cache
+/Users/firat/Documents/Interface/Interface/obj/Debug/netcoreapp3.1/Interface.dll
+/Users/firat/Documents/Interface/Interface/obj/Debug/netcoreapp3.1/Interface.pdb
+/Users/firat/Documents/Interface/Interface/obj/Debug/netcoreapp3.1/Interface.genruntimeconfig.cache
