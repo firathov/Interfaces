@@ -97,7 +97,6 @@ namespace Interface
             int diametr = ForNumberCheck();
             Trumpet trumpet = new Trumpet(diametr);
             
-            
             ITool[] tools = new ITool[3];
             tools[0] = new Guitar (chordQuantity);
             tools[1] = new Drum (size);
@@ -122,7 +121,7 @@ namespace Interface
                     }
                     else
                     {
-                        Console.Write("Вы ввели неправильный символ, попробуйте ещё: ");
+                        Console.Write("You wrote the wrong symbol, pls try again: ");
                     }
                 }
             }
