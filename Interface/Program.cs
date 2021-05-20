@@ -87,27 +87,7 @@ namespace Interface
 
         static void Main(string[] args)
         {
-            //Console.Write("Write chords quantity: ");
-            //int chordQuantity = ForNumberCheck();
-            //Guitar guitar = new Guitar(chordQuantity);
-
-            //Console.Write("Write size of Drum: ");
-            //int size = ForNumberCheck();
-            //Drum drum = new Drum(size);
-
-            //Console.Write("Write diametr of Trumpet: ");
-            //int diametr = ForNumberCheck();
-            //Trumpet trumpet = new Trumpet(diametr);
-
             ITool[] tools = new ITool[3];
-            //tools[0] = new Guitar (chordQuantity);
-            //tools[1] = new Drum (size);
-            //tools[2] = new Trumpet(diametr);
-
-            //for (int i = 0; i < tools.Length; i++)
-            //{
-            //    tools[i].Play();
-            //}
             bool exit = true;
             do
             {
